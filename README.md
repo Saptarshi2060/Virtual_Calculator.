@@ -22,17 +22,17 @@ This project implements a virtual calculator that uses hand gestures captured by
 
 ## Technology Used
   
-- **Python: Core programming language used for development.
-- **Libraries:
-- **OpenCV: For image and video processing.
-- **MediaPipe: For hand gesture recognition.
-- **EasyOCR: For text recognition from the drawn image.
-- **SymPy: For evaluating mathematical expressions.
-- **Webcam: Used to capture hand gestures in real-time.
-- **Troubleshooting
-- **Ensure good lighting and a clear view of your hand for accurate tracking.
-- **Adjust the webcam position to capture your hand gestures properly.
-- **If the recognition is not accurate, try drawing slower and more clearly.
+- Python: Core programming language used for development.
+- Libraries:
+- OpenCV: For image and video processing.
+- MediaPipe: For hand gesture recognition.
+- EasyOCR: For text recognition from the drawn image.
+- SymPy: For evaluating mathematical expressions.
+- Webcam: Used to capture hand gestures in real-time.
+- Troubleshooting
+- Ensure good lighting and a clear view of your hand for accurate tracking.
+- Adjust the webcam position to capture your hand gestures properly.
+- If the recognition is not accurate, try drawing slower and more clearly.
 
 
 ## Setup
