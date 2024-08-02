@@ -12,13 +12,13 @@ This project implements a virtual calculator that uses hand gestures captured by
 
   ## Usuage
   
-- **Toggle Drawing: Press d to start or stop drawing with hand gestures.
-- **Clear Drawing: Press c to clear the current drawing and reset the history.
-- **Undo Action: Press u to undo the last drawing action.
-- **Press r to redo the last undone drawing action.
-- **Recognize and Solve Expression: Press s to recognize the drawn expression, evaluate it, and display the result.
-- **Exit Application: Press q to quit the application.
-- **Open your webcam and start drawing mathematical expressions in the air. The application will display your drawing and calculate the result of the recognized expression.
+- Toggle Drawing: Press d to start or stop drawing with hand gestures.
+- Clear Drawing: Press c to clear the current drawing and reset the history.
+- Undo Action: Press u to undo the last drawing action.
+- Press r to redo the last undone drawing action.
+- Recognize and Solve Expression: Press s to recognize the drawn expression, evaluate it, and display the result.
+- Exit Application: Press q to quit the application.
+- Open your webcam and start drawing mathematical expressions in the air. The application will display your drawing and calculate the result of the recognized expression.
 
 ## Technology Used
   
